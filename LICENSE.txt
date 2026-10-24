@@ -1,0 +1,15 @@
+Credence — original work
+Copyright (c) 2026 Simon W. Jackson. All rights reserved.
+
+Except for the third-party material identified in THIRD_PARTY_NOTICES.md,
+this notice applies to the original code, documentation, writing, procedural
+art, and generated audio in this repository.
+
+No license to use, copy, modify, distribute, sublicense, or sell the original
+work is granted by this notice. Public availability of the source does not
+grant such permission. Rights that apply by law remain unaffected.
+
+Third-party material is excluded from this reservation of rights. Its existing
+copyright notices, licenses, and public-domain dedications remain in force.
+See THIRD_PARTY_NOTICES.md and the license files it identifies. No ownership
+of third-party material or rights in third-party names is claimed.
